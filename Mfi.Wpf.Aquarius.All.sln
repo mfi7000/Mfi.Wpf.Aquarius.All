@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mfi.Wpf.Aquarius.TestApplic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mfi.Wpf.Aquarius", "__SUBMODULES\Mfi.Wpf.Aquarius\Mfi.Wpf.Aquarius.csproj", "{DFDC94B5-4D82-4E61-AFEC-445E7EA7858B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mfi.Wpf.Aquarius.Tests", "__SUBMODULES\Mfi.Wpf.Aquarius.Tests\Mfi.Wpf.Aquarius.Tests.csproj", "{03CE2F75-E780-49A8-AB4C-7F5FB0BB0D13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DFDC94B5-4D82-4E61-AFEC-445E7EA7858B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFDC94B5-4D82-4E61-AFEC-445E7EA7858B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFDC94B5-4D82-4E61-AFEC-445E7EA7858B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CE2F75-E780-49A8-AB4C-7F5FB0BB0D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CE2F75-E780-49A8-AB4C-7F5FB0BB0D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CE2F75-E780-49A8-AB4C-7F5FB0BB0D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CE2F75-E780-49A8-AB4C-7F5FB0BB0D13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
