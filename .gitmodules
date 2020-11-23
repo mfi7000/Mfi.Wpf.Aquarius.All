@@ -1,3 +1,6 @@
 [submodule "__SUBMODULES/Mfi.Wpf.Aquarius"]
 	path = __SUBMODULES/Mfi.Wpf.Aquarius
 	url = https://github.com/mfi7000/Mfi.Wpf.Aquarius.git
+[submodule "__SUBMODULES/Mfi.Wpf.Aquarius.Tests"]
+	path = __SUBMODULES/Mfi.Wpf.Aquarius.Tests
+	url = https://github.com/mfi7000/Mfi.Wpf.Aquarius.Tests.git
