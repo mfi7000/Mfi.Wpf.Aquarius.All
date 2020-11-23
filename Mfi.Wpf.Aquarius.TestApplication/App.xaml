@@ -1,7 +1,6 @@
 ﻿<Application x:Class="Mfi.Wpf.Aquarius.TestApplication.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Mfi.Wpf.Aquarius.TestApplication"
              xmlns:s="https://github.com/canton7/Stylet"
              xmlns:startup="clr-namespace:Mfi.Wpf.Aquarius.TestApplication.Startup">
     <Application.Resources>
