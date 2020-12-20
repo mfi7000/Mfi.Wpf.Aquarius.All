@@ -13,6 +13,8 @@ namespace Mfi.Diagnostics.Logging
             builder.RegisterType<DefaultLogService>()
                    .AsImplementedInterfaces()
                    .SingleInstance();
+
+            //builder.re
         }
     }
 }
