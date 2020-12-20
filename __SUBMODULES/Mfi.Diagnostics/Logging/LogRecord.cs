@@ -28,7 +28,7 @@ namespace Mfi.Diagnostics.Logging
 
         public override string ToString()
         {
-            return $"[{Timestamp.ToString("yyyy-MM-dd HH:mm:ss.fff")}] [{LogLevel.ToString().PadRight(10)}] [{ManagedThreadId:D5}] {Message}";
+            return $"[{Timestamp.ToString("yyyy-MM-dd HH:mm:ss.fff")}] [{LogLevel.ToString().PadRight(10)}] [{ManagedThreadId:D5}] [{SourceId?.PadRight(30)}] {Message}";
         }
     }
 }

@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Autofac" Version="6.0.0" />
+    <PackageReference Include="Autofac" Version="6.1.0" />
     <PackageReference Include="DevExpress.WindowsDesktop.Wpf" Version="20.2.3" />
     <PackageReference Include="DevExpress.WindowsDesktop.Wpf.Themes.VS2019Dark" Version="20.2.3" />
     <PackageReference Include="PostSharp" Version="6.8.3-preview" />
